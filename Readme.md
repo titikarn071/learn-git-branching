@@ -14,3 +14,5 @@
 ![alt text](image-5.png)
 2.4
 ![alt text](image-6.png)
+3.1
+![alt text](image-7.png)
