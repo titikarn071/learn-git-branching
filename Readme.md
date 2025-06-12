@@ -8,3 +8,5 @@
 ![alt text](image-2.png)
 2.1
 ![alt text](image-3.png)
+2.2
+![alt text](image-4.png)
