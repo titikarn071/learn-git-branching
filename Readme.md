@@ -16,3 +16,5 @@
 ![alt text](image-6.png)
 3.1
 ![alt text](image-7.png)
+3.2
+![alt text](image-8.png)
